@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shopu/sh-p-.git"
+    "url": "git+https://github.com/shopu/shopu.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shopu/sh-p-/issues"
+    "url": "https://github.com/shopu/shopu/issues"
   },
-  "homepage": "https://github.com/shopu/sh-p-#readme"
+  "homepage": "https://github.com/shopu/shopu#readme"
 }
