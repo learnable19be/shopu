@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/shopu/shopu/issues"
   },
-  "homepage": "https://github.com/shopu/shopu#readme"
+  "homepage": "https://github.com/shopu/shopu#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1"
+  }
 }
