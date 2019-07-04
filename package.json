@@ -1,0 +1,22 @@
+{
+  "name": "shopu",
+  "version": "1.0.0",
+  "description": "\"Shopu ecommerce\"",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shopu/sh-p-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shopu/sh-p-/issues"
+  },
+  "homepage": "https://github.com/shopu/sh-p-#readme"
+}
